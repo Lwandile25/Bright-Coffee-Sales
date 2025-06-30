@@ -76,10 +76,6 @@ The analysis covers multiple store locations and explores patterns in sales acro
 * **Bright Coffee Shop Sales Data (CSV)**
   Contains raw transactional sales data for analysis.
 
----
-
-### Working Files
-
 * **Sales Analysis Workbook (Excel)**
   Processed data and dashboards for visual exploration and insights.
 
