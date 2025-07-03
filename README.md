@@ -193,6 +193,7 @@ Insight: The top three products collectively account for a large portion of tota
 ### 📂 Working Files
 
 * **Sales Analysis Workbook (Excel)**
+* **SQL Analysis**
 * **Project Plan (Miro)** 
 
 ### 📂 Output Files
