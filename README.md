@@ -62,7 +62,7 @@ The analysis divides the day into meaningful business segments:
 
 * Revenue distribution across stores:
 
-  * **Hell’s Kitchen:** 33.84% of total revenue
+  * **Hell’s Kitchen:** 33.84%
   * **Astoria:** 33.23%
   * **Lower Manhattan:** 32.92%
 
@@ -79,7 +79,6 @@ The analysis divides the day into meaningful business segments:
 Sales performance by time bucket:
 
 #### **Morning (06:00 – 11:59)**
-
 
 * Lower Manhattan: 63% of revenue
 * Hell’s Kitchen: 59% 
@@ -151,8 +150,6 @@ Insight: The top three products collectively account for a large portion of tota
 * **Astoria** peaks on Saturdays, reflecting strong weekend community and leisure traffic.
 * **Lower Manhattan** shows balanced demand across all days, with minor peaks on Tuesday and Wednesday.
 
----
-
 ## 4️⃣ Recommendations
 
 ✅ **Product Mix Strategy**
@@ -184,46 +181,32 @@ Insight: The top three products collectively account for a large portion of tota
 * Plan resources around consistent weekday patterns.
 * Maintain flexibility for localized customer behaviors.
 
----
-
 ## 5️⃣ Project Files
 
 ### 📂 Input Files
 
 * **Objective Documentation**
-
   * Defines analysis goals and key business questions.
 * **Bright Coffee Shop Sales Data (CSV)**
-
   * Raw transactional sales data for January–June 2023.
 
 ### 📂 Working Files
 
 * **Sales Analysis Workbook (Excel)**
-
-  * Contains processed data and initial dashboard visuals.
-* **Project Plan (Excel / Miro)**
-
-  * Details timelines, milestones, and data architecture.
+* **Project Plan (Miro)** 
 
 ### 📂 Output Files
 
-* **Final Report (PDF/Doc)**
+* **Excel Analysis**
+* **Final Report**
 
-  * Full analysis summary and strategic recommendations.
-* **SQL Scripts (.sql)**
-
-
-  * Additional analytics and visualizations
 
 ## 6️⃣ Tools & Technologies
 
 * **SQL (Snowflake)**
-
-  * Centralized data storage and transformations.
 * **Microsoft Excel**
-
-  * Advanced visualization capabilities.
+* **Miro**
+* **Canva**
 
 ## 7️⃣ Business Impact
 
